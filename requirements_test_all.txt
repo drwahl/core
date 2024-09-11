@@ -851,7 +851,7 @@ google-cloud-texttospeech==2.17.2
 google-generativeai==0.7.2
 
 # homeassistant.components.nest
-google-nest-sdm==5.0.0
+google-nest-sdm==5.0.1
 
 # homeassistant.components.google_photos
 google-photos-library-api==0.8.0
@@ -2242,6 +2242,9 @@ tplink-omada-client==1.4.2
 # homeassistant.components.transmission
 transmission-rpc==7.0.3
 
+# homeassistant.components.triggercmd
+triggercmd==0.0.27
+
 # homeassistant.components.twinkly
 ttls==1.8.3
 
@@ -2259,6 +2262,9 @@ twilio==6.32.0
 
 # homeassistant.components.twitch
 twitchAPI==4.2.1
+
+# homeassistant.components.monarch_money
+typedmonarchmoney==0.3.1
 
 # homeassistant.components.ukraine_alarm
 uasiren==0.0.1
